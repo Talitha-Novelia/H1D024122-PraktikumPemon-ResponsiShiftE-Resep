@@ -39,10 +39,8 @@ Aplikasi ini memanfaatkan public API dari TheMealDB (tanpa memerlukan API Key).
 
 | Home Screen / Search | Loading/Error State | Recipe Detail Screen |
 |:---:|:---:|:---:|
-| ![Home](<img width="200" alt="image" src="https://github.com/user-attachments/assets/38ed1362-8587-40b8-9e0d-a1132f0a2929" />
-) | ![State](<img width="200" alt="image" src="https://github.com/user-attachments/assets/f8237be5-ae25-43a5-92dd-dd05a67cea8a" />
-) | ![Detail](<img width="200" alt="image" src="https://github.com/user-attachments/assets/17963093-60cd-434a-9059-2f646961ed83" />
-) |
+| <img width="200" alt="Home" src="https://github.com/user-attachments/assets/38ed1362-8587-40b8-9e0d-a1132f0a2929" /> | <img width="200" alt="State" src="https://github.com/user-attachments/assets/f8237be5-ae25-43a5-92dd-dd05a67cea8a" /> | <img width="200" alt="Detail" src="https://github.com/user-attachments/assets/17963093-60cd-434a-9059-2f646961ed83" /> |
+
 
 *(Catatan: Ganti gambar di atas dengan screenshot aplikasi yang sebenarnya di dalam folder `docs/`)*
 
