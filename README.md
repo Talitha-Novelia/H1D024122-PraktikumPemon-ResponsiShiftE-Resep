@@ -2,9 +2,9 @@
 
 > _Aplikasi mobile untuk mencari dan mengeksplorasi resep makanan dari seluruh dunia secara dinamis._
 
-**Nama**: <NAMA_MAHASISWA>  
-**NIM**: <NIM_MAHASISWA>  
-**Kelas**: <KELAS>  
+**Nama**: Talitha Novelia Salsabila  
+**NIM**: H1D024122
+**Shift**: E
 
 ---
 
